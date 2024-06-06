@@ -5,7 +5,7 @@ We have taken up a kaggle challenge for fetching the dataset and approach the pr
 https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
 Note:
-yolo_application.py is only the deployment using Streamlit and is not the whole code
+yolo_application.py is only the deployment using *Streamlit* and is NOT the whole code
 The code for EDA and model development can be found in the colab notebook attached or you can check my profile on kaggle
 https://www.kaggle.com/siddharth4567
 Please vote me up on kaggle if you find this helpful😁
